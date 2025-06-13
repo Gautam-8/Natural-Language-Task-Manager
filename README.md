@@ -2,6 +2,8 @@
 
 Convert meeting transcripts into actionable tasks using AI. Built with Next.js, TypeScript, and Tailwind CSS.
 
+🚀 [Live Demo](https://natural-language-task-manager-psi.vercel.app/)
+
 ## Quick Start
 
 ```bash
